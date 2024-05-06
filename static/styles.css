@@ -3,5 +3,10 @@ body {
 }
 
 .navbar {
-    font-size: 50px;
+    font-size: 40px;
+}
+
+.padded-nav-link {
+    padding-left: 50px;
+    padding-right: 50px;
 }

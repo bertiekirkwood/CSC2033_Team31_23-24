@@ -5,3 +5,8 @@ body {
 .navbar {
     font-size: 50px;
 }
+
+.padded-nav-link {
+    padding-left: 50px;
+    padding-right: 50px;
+}

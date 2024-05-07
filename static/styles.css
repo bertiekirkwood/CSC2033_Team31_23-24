@@ -2,6 +2,10 @@ body {
     background-color: #e2f6e4ff;
 }
 
+form {
+    font-size: 30px;
+}
+
 .navbar {
     font-size: 40px;
 }
@@ -17,4 +21,35 @@ body {
     padding: 20px;
     background-color: #d9ead3ff;
     border-radius: 10px;
+}
+
+.text-box-white {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+.centre-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    height: 150px;
+}
+
+.btn {
+    font-size: 30px;
+    background-color: #93c47dff;
+    color: black;
+    border: 2px solid darkgreen;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn:hover {
+    background-color: darkgreen;
+    border: 2px solid darkgreen;
 }
